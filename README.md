@@ -14,7 +14,7 @@ classification performance to all other approaches. Also, COCOA is far more labe
 
 
 ## Positive and Negative selection
- ![alt text](https://github.com/cruiseresearchgroup/COCOA/blob/main/images/sampling.pdf)
+ ![alt text](https://github.com/cruiseresearchgroup/COCOA/blob/main/images/sampling.png)
 
 ### Usage
     main.py [-h] --datapath DATAPATH --output OUTPUT [--dataset DATASET]

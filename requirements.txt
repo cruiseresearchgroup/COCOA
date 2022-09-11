@@ -1,0 +1,6 @@
+python==3.8.13
+numpy==1.23.0
+pandas==1.4.3
+scipy==1.8.0
+tensorflow==2.4.0
+tqdm==4.64.0
